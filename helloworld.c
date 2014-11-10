@@ -1,1 +1,3 @@
 #include <stadio.h>
+
+go
